@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<xml>
+ <wolDB>
+   <computer>
+     <name>Routeur</name>
+     <onAdress>192.168.2.1</onAdress>
+     <offAdress>192.168.2.7</offAdress>
+   </computer>
+   <computer>
+     <name>La bete</name>
+     <onAdress>192.168.1.32</onAdress>
+     <offAdress>192.168.1.32</offAdress>
+   </computer>
+   <computer>
+       <name>New Entry</name>
+       <onAdress>d</onAdress>
+       <offAdress>d</offAdress>
+   </computer>
+ </wolDB>
+</xml>
